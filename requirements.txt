@@ -1,0 +1,5 @@
+PySide6
+hijri-converter
+lunardate
+openpyxl
+reportlab

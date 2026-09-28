@@ -38,7 +38,7 @@ power-calendar
 1. Clone the repository:
    ```
    git clone https://github.com/kasirom/power_calendar.git
-   cd power-calendar
+   cd power_calendar
    ```
 
 2. Install the required dependencies:
